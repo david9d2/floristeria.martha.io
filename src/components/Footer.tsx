@@ -130,10 +130,10 @@ function Footer({ onNavigate, onCategorySelect }: Props) {
               Contacto
             </h4>
             <ul className="text-sm text-white/80 space-y-2.5">
-              <li>Tel: +504 2345-6789</li>
-              <li>WhatsApp: +504 9876-5432</li>
-              <li>Tegucigalpa, Honduras</li>
-              <li>Lun–Dom 8:00 a.m. – 8:00 p.m.</li>
+              <li>Tel: +504 3301-9083</li>
+              <li>WhatsApp: +504 3301-9083</li>
+              <li>Tocoa, Colón Honduras</li>
+              <li>Lun–Sab 8:00 a.m. – 6:00 p.m.</li>
             </ul>
           </div>
         </div>
