@@ -26,9 +26,9 @@ function Header({ currentPage, onNavigate }: Props) {
       <div className="bg-[#5f7d6b] text-white">
         <div className="max-w-6xl mx-auto px-4 h-10 flex items-center justify-between text-xs sm:text-sm">
           <p className="hidden sm:block">
-            Tel: +504 2345-6789 · Lun–Dom 8:00 a.m. – 8:00 p.m.
+            Tel: +504 3301-9083 · Lunes – Sábado 8:00 a.m. – 6:00 p.m.
           </p>
-          <p className="sm:hidden">Tel: +504 2345-6789</p>
+          <p className="sm:hidden">Tel: +504 3301-9083</p>
           <p className="hidden sm:block">Envíos a todo Honduras</p>
         </div>
       </div>
