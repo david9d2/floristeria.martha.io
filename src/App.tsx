@@ -133,7 +133,7 @@ export default function App() {
         onClear={clearCart}
       />
       <a
-        href="https://wa.me/50433805133"
+        href="https://wa.me/50433019083"
         target="_blank"
         rel="noreferrer"
         aria-label="Chatea con nosotros por WhatsApp"
