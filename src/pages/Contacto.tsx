@@ -4,13 +4,13 @@ const mapImg =
 const rows = [
   {
     label: "Dirección",
-    value: "Av. de los Claveles 452, Jardines del Prado",
+    value: "Tocoa Colón, Barrio el Centro en la CA-13, en Floristería Martha",
     cls: "bg-[#eff2f0]",
     iconCls: "text-[#5f7d6b]",
   },
   {
     label: "Horario de Atención",
-    value: "Lunes a Sábado: 9:00 AM – 8:00 PM · Domingos: 10:00 AM – 4:00 PM",
+    value: "Lunes a Sábado: 8:00 AM – 6:00 PM,
     cls: "bg-[#f8ebef]",
     iconCls: "text-[#2e1e1c]",
   },
@@ -72,7 +72,7 @@ export default function Contacto() {
           </div>
 
           <a
-            href="https://wa.me/50433805133"
+            href="https://wa.me/50433019083"
             target="_blank"
             rel="noreferrer"
             className="bg-[#25d366] text-white font-bold text-base h-14 rounded-full flex items-center justify-center gap-2.5 hover:bg-[#1fb254] transition-colors"
