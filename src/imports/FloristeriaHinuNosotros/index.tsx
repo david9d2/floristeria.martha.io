@@ -79,7 +79,7 @@ function StoryCopyBlock() {
   return (
     <div className="[word-break:break-word] content-stretch flex flex-col gap-[18px] items-start not-italic pt-[16px] px-[24px] relative shrink-0 w-full" data-name="story-copy-block">
       <p className="font-['Instrument_Serif:Regular',sans-serif] leading-[normal] relative shrink-0 text-[#2e1e1c] text-[26px] w-full">Atención Personalizada y Cuidado en Cada Detalle</p>
-      <p className="font-['Inter:Regular',sans-serif] font-normal leading-[1.6] relative shrink-0 text-[#6b5a58] text-[14px] w-full">En Floristería Hinu creemos que cada arreglo cuenta un relato único. Nos especializamos en brindar una atención cercana y detallada, ayudándote a seleccionar la combinación perfecta para cada espacio y sentimiento.</p>
+      <p className="font-['Inter:Regular',sans-serif] font-normal leading-[1.6] relative shrink-0 text-[#6b5a58] text-[14px] w-full">En Floristería Martha creemos que cada arreglo cuenta una historia única. Nos especializamos en brindar una atención cercana y detallada, ayudándote a seleccionar la combinación perfecta para cada espacio y sentimiento.</p>
       <p className="font-['Inter:Regular',sans-serif] font-normal leading-[1.6] relative shrink-0 text-[#6b5a58] text-[14px] w-full">Nuestro servicio de entrega a domicilio garantiza que las flores lleguen con la frescura intacta y una presentación impecable directo a la puerta de ese ser querido.</p>
     </div>
   );
@@ -104,7 +104,7 @@ function Frame1() {
 function Frame2() {
   return (
     <div className="bg-[#ece9f0] content-stretch flex items-start px-[12px] py-[6px] relative rounded-[20px] shrink-0" data-name="Frame">
-      <p className="[word-break:break-word] font-['Inter:Semi_Bold',sans-serif] font-semibold leading-[normal] not-italic relative shrink-0 text-[#a195b8] text-[12px] whitespace-nowrap">Diseño de Autor</p>
+      <p className="[word-break:break-word] font-['Inter:Semi_Bold',sans-serif] font-semibold leading-[normal] not-italic relative shrink-0 text-[#a195b8] text-[12px] whitespace-nowrap">Fabricado con amor</p>
     </div>
   );
 }
